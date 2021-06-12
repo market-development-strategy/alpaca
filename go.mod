@@ -1,3 +1,3 @@
-module github.com/alpacahq/alpaca-trade-api-go
+module github.com/market-development-strategy/alpaca
 
 go 1.16
